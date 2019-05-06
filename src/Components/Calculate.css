@@ -1,0 +1,36 @@
+.offset-m4 {
+	background-color: #d6d6d6;
+	border-radius: 15px;
+}
+.equal {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.btn-equal {
+	height: 85%;
+	font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 15px;
+    font-weight: bolder;
+    background-color: gray;
+    color: white;
+
+    -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+
+}
+
+.screen {
+	border: 1px solid;
+	border-radius: 15px;
+	height: 12vw;
+	text-align: right;
+	font-size: 35px;
+	background-color: white;
+}
+
+.padding-screen {
+	padding:  10px;
+}
